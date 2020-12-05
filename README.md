@@ -56,10 +56,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+<summary>:zap: GitHub Stats</summary>
+ <img align="left" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshibansal&show_icons=true&theme=gruvbox&line_height=27" />
+ 
+<br />
+<br />
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yoshibansal&show_icons=true&hide_border=true" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshibansal&theme=gruvbox&hide_langs_below=1" />
 
 
 
