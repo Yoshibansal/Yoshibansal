@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 
 <summary>:zap: GitHub Stats</summary>
 <p>
-<img align="left" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshibansal&show_icons=true&theme=gruvbox&height=40" />
+<img align="left" height="180" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshibansal&show_icons=true&theme=gruvbox" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshibansal&theme=gruvbox&hide_langs_below=1&height=37" />
+<img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshibansal&theme=gruvbox&hide_langs_below=1" />
 </p>
 
 
