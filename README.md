@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools:<img align='left' src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47wqna3fg57xhsvd6g5081y8ovqc5xh33oyg2mpxke&rid=giphy.gif" width="20" height="20">
 
 <img align="left" alt="Tensorflow" width="32px" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/956/166/datas/original.png" />
 <img align="left" alt="Python" width="35px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
@@ -63,11 +63,10 @@ Here are some ideas to get you started:
 -->
 <br />
 <br />
-<!--<img align='right' src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47wqna3fg57xhsvd6g5081y8ovqc5xh33oyg2mpxke&rid=giphy.gif" width="200" height="200">
--->
+
 <summary>:zap: GitHub Stats</summary>
 <p>
-<img align="left" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshibansal&show_icons=true&theme=gruvbox&height=30" />
+<img align="left" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshibansal&show_icons=true&theme=gruvbox&height=40" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshibansal&theme=gruvbox&hide_langs_below=1" />
 </p>
