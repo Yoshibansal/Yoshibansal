@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 <!--<img align='right' src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47wqna3fg57xhsvd6g5081y8ovqc5xh33oyg2mpxke&rid=giphy.gif" width="200" height="200">
 -->
 <summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshibansal&show_icons=true&theme=gruvbox" />
+<p>
+<img align="left" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshibansal&show_icons=true&theme=gruvbox&height=27" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshibansal&theme=gruvbox&hide_langs_below=1" />
-
+</p>
 
 
 [website]: https://github.com/yoshibansal
