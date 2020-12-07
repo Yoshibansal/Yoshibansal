@@ -70,7 +70,9 @@ Here are some ideas to get you started:
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshibansal&theme=gruvbox&hide_langs_below=1" />
 </p>
 
-<img align='center' src="https://media1.giphy.com/media/5mYcsVrgxtxt7QUc55/giphy.gif?cid=ecf05e47uyl773y9nc7j7vq3b0s3wyngq3lkw8us402da42j&rid=giphy.gif" width="920" height="200">
+<br />
+
+<img align='center' src="https://media1.giphy.com/media/5mYcsVrgxtxt7QUc55/giphy.gif?cid=ecf05e47uyl773y9nc7j7vq3b0s3wyngq3lkw8us402da42j&rid=giphy.gif">
 
 
 
