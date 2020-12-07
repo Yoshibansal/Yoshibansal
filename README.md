@@ -68,7 +68,11 @@ Here are some ideas to get you started:
 <img align='right' src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47wqna3fg57xhsvd6g5081y8ovqc5xh33oyg2mpxke&rid=giphy.gif" width="200" height="200">
 <img align="left" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshibansal&show_icons=true&theme=gruvbox" />
 
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshibansal&theme=gruvbox&hide_langs_below=1" />
 
