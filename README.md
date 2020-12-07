@@ -71,8 +71,10 @@ Here are some ideas to get you started:
 </p>
 
 <br />
+<br />
+<br />
 
-<img align='center' src="https://media1.giphy.com/media/5mYcsVrgxtxt7QUc55/giphy.gif?cid=ecf05e47uyl773y9nc7j7vq3b0s3wyngq3lkw8us402da42j&rid=giphy.gif">
+<img align='center' src="https://media1.giphy.com/media/5mYcsVrgxtxt7QUc55/giphy.gif?cid=ecf05e47uyl773y9nc7j7vq3b0s3wyngq3lkw8us402da42j&rid=giphy.gif" width="820">
 
 
 
