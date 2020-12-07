@@ -69,15 +69,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshibansal&show_icons=true&theme=gruvbox" />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshibansal&theme=gruvbox&hide_langs_below=1" />
 
 
