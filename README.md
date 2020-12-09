@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PyTorch
 - 🌱 I’m currently learning GANs
-- 💬 Ask me about Deep Learning
+- 💬 Ask me about Machine learning and Deep Learning
 - 📫 How to reach me: [linkedin] or bansalyoshi@gmail.com
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ... -->
