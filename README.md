@@ -47,10 +47,7 @@ Here are some ideas to get you started:
 <br /><br/>
 ________________________________________________________________________________________________
 ________________________________________________________________________________________________
-<br />
-
 ### :zap: GitHub Stats
-
 <p>
 <img align="left" height="200" alt="Yoshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshibansal&show_icons=true&theme=gruvbox" />
 
