@@ -36,11 +36,13 @@ Here are some ideas to get you started:
 
 ### Languages and Tools: <img align='center' src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47wqna3fg57xhsvd6g5081y8ovqc5xh33oyg2mpxke&rid=giphy.gif" width="20" height="20">
 
+<p>
 <img align="left" alt="Tensorflow" width="30px" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/956/166/datas/original.png" />
 <img align="left" alt="Python" width="35px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
 <img align="left" alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="Keras" width="94px" src="https://miro.medium.com/max/600/0*LZQf7b4u8f97izwV.png" />
+<p/>
 
 <br /><br/>
 ________________________________________________________________________________________________
