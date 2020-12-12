@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://www.firstdecatur.org/wp-content/uploads/2019/07/Globe-Icon-3.png" />][website]
+[<img align="left" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" />][linkedin]
 
 <br />
 
