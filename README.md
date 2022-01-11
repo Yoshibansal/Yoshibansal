@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Yoshi - [Yoshibansal][website] 👋
 
-- 🔭 I’m currently working on PyTorch
+- 🔭 I’m currently working on SciKit-Learn
 - 🌱 I’m currently learning GANs
 - 💬 Ask me about Machine learning and Deep Learning
 - 📫 How to reach me: [linkedin] or bansalyoshi@gmail.com
