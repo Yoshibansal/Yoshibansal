@@ -62,5 +62,5 @@ ________________________________________________________________________________
 
 
 
-[website]: https://github.com/yoshibansal
+[website]: https://yoshi-bansal.netlify.app/
 [linkedin]: https://www.linkedin.com/in/yoshi-bansal-404aa218b
